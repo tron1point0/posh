@@ -3,7 +3,7 @@ Posh
 
 A **P**erl **O**riented **Sh**ell.
 
-(c) 2011 Gatlin Johnson
+(c) 2011 Gatlin Johnson, Traian Nedelea
 
 This is licensed under the Do What The Fuck You Want Public License.
 You may obtain a copy of the license [here](http://sam.zoy.org/wtfpl).
@@ -48,3 +48,9 @@ How do I use it?
 
 This showcases the basic features.
 
+How is this different from gatlin/posh?
+---------------------------------------
+
+This `posh` looks in `$PATH` for commands it doesn't recognize. `gatlin/posh`
+is a teaching tool, `tron1point0/posh` is more of a usable shell. Different
+goals means different forks.
