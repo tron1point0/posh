@@ -54,3 +54,7 @@ How is this different from gatlin/posh?
 This `posh` looks in `$PATH` for commands it doesn't recognize. `gatlin/posh`
 is a teaching tool, `tron1point0/posh` is more of a usable shell. Different
 goals means different forks.
+
+Oh, also, both were written from scratch in parallel by each of us. They have
+similar structures (and I forked from him) because we have similar coding
+styles. That, and we were sitting in the same room...
